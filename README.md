@@ -1,2 +1,2 @@
 # Django-Project
-This is a project oinly for testing and learning.
+This is a project only for testing and learning.

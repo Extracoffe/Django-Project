@@ -49,8 +49,14 @@
                 </div>
             </div>
         </nav>
+        <div class="container">
+            <div>
+                {% block header %}{% endblock header %}
+            </div>
+            <div>
+                {% block content %} {% endblock content %}
+            </div>
+        </div>
+       
     </body>
 </html>
-
-    
-{% block content %} {% endblock content %}
